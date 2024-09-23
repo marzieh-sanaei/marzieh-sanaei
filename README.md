@@ -17,4 +17,5 @@ Who builds the digital worlds that captivate users every day ツ
   </a>
 
 
+  <img alt="github contribution snake animation" src="https://github.com/marzieh-sanaei/marzieh-sanaei/blob/master/.github/workflows/github-contribution-grid-snake.svg">
 
