@@ -13,7 +13,7 @@ Who crafts "the thing" to people interact with technology every day ツ
   </a>
   
 <a href="mailto:marziehsanaee@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Let's say-hi@marzieh-sanaei-%231877F2.svg?style=flat&logo=gmail&logoColor=white&color=071A2C" alt="gmail">
+    <img src="https://img.shields.io/badge/Let's say-marziehsanaei-%231877F2.svg?style=flat&logo=gmail&logoColor=white&color=071A2C" alt="gmail">
   </a>
 
 <img alt="github contribution snake animation" src="https://github.com/SamaneYaghoobi/SamaneYaghoobi/blob/output/github-contribution-grid-snake.svg">
