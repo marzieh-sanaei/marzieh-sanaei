@@ -1,7 +1,7 @@
 Hey, I'm Marzieh Sanaei <img src="https://user-images.githubusercontent.com/22401814/180605987-b4b14081-4005-4ea1-bcfd-cbe7c3bf36ef.gif" width="25px">
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200px"> 
 
-Who crafts "the thing" to people interact with technology every day ツ
+Who builds the digital worlds that captivate users every day ツ
 
 <br/>
 
