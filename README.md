@@ -11,7 +11,9 @@ Who builds the digital worlds that captivate users every day ツ
 <a href="https://www.linkedin.com/in/marzieh-sanaei99" target="_blank">
     <img src="https://img.shields.io/badge/and Connect on-Linkedin-%231877F2.svg?style=flat&logo=linkedin&logoColor=white&color=071A2C" alt="linkedin">
   </a>
-  
+  <a href="https://www.youtube.com/@marzieh-sanaei" target="_blank">
+    <img src="https://img.shields.io/badge/Post videos on-Youtube-%231877F2.svg?style=flat&logo=youtube&logoColor=white&color=071A2C" alt="youtube">
+  </a>
 <a href="mailto:marziehsanaee@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Let's say-marziehsanaei-%231877F2.svg?style=flat&logo=gmail&logoColor=white&color=071A2C" alt="gmail">
   </a>
