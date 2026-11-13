@@ -17,6 +17,8 @@ Front-End Developer passionate about building modern, responsive and user-friend
 
 
   <img alt="github contribution snake animation" src="https://github.com/marzieh-sanaei/marzieh-sanaei/blob/master/.github/workflows/github-contribution-grid-snake.svg">
+  
+---
 
   ## 💻 Tech Stack
 <p align="center">
