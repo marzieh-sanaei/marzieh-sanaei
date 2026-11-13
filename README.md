@@ -83,9 +83,6 @@
 ---
 
 <h2 align="center">✨ Let's Build Something Great Together!</h2>
-
 <p align="center">
-  <i>Thanks for visiting my profile!</i>
-  <br/>
   💜 Happy Coding!
 </p>
